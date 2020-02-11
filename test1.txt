@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Age: 336474
+Cache-Control: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 03 Feb 2020 10:59:46 GMT
+Etag: "3147526947"
+Expires: Mon, 10 Feb 2020 10:59:46 GMT
+Last-Modified: Thu, 17 Oct 2019 07:18:26 GMT
+Server: ECS (dcb/7F14)
+X-Cache: HIT
+Content-Length: 1256
+Connection: Keep-Alive
+
